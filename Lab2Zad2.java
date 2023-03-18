@@ -1,5 +1,15 @@
-import java.util.Arrays;
-import java.util.Scanner;
+// Napisz program, który będzie przeprowadzał analizę statystyczną na podstawie wartości
+// występujących w tablicy.
+// ▪ Długość tablicy podaje użytkownik
+// ▪ Wartości w tablicy są generowane ze zbioru dopuszczalnych wartości
+// [2, 3, 3.5, 4, 4.5, 5]
+// ▪ Oblicz średnią wartość liczb występujących w tablicy
+// ▪ Znajdź wartość minimalną i maksymalną
+// ▪ Znajdź wartości wyższe/niższe niż średnia
+// ▪ Zlicz częstotliwość występowania poszczególnych liczb
+// ▪ Oblicz średnie odchylenie standardowe wartości występujących w tablicy
+// import java.util.Arrays;
+// import java.util.Scanner;
 
 public class ArrayStatistics {
     public static void main(String[] args) {
