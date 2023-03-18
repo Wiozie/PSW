@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class BubbleSort {
+public class Lab2Zad1 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
