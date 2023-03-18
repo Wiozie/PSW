@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class LAB1_ZAD1 {
+public class Lab1Zad1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
