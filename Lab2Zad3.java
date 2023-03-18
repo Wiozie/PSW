@@ -1,7 +1,15 @@
+// Napisz program, który pozwoli na wykonanie podstawowych operacji na macierzach
+// kwadratowych o wymiarach podanych przez użytkownika:
+// ▪ Dodawanie dwóch macierzy
+// ▪ Odejmowanie dwóch macierzy
+// ▪ Mnożenie dwóch macierzy
+// Do implementacji macierzy wykorzystaj tablice wielowymiarowe, które będą
+// automatycznie wypełnione wartościami losowymi z zakresu od -10 do 10.
+    
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class MatrixOperations {
+public class Lab2Zad3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
